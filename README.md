@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-lucas-2a167816a)
 
 <div style="display: inline_block">
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeffersonlucas18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeffersonlucas18&layout=donut&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffersonlucas18&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeffersonlucas18&theme=dracula"/>
 </div>
 
 ## Tecnologias Back-End que eu uso no meu dia:
